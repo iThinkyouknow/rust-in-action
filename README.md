@@ -1,7 +1,7 @@
 # rust-in-action
 Code Exercises for the Book "Rust in Action" by Tim McNamara
 
-Chip-8 CPU
-Storage
-Time syncing
-Particle Generator
+1. Chip-8 CPU
+2. Storage
+3. Time syncing
+4. Particle Generator
